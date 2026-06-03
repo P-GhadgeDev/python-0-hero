@@ -159,6 +159,7 @@
 6. Matrix Plots
 7. Heatmap
 8. Cluster Map
+9. Rug Plot
 
 ## Plotly
 
